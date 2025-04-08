@@ -3,7 +3,7 @@
 This is a front-end clone of the YouTube homepage built using HTML and CSS. It replicates the layout, design, and responsiveness of YouTube’s user interface.
 
 ## 🔗 Live Demo
-[Click here to view the website](https://nikunj-mehta.github.io/YouTubeClone/)
+[Click here to view the website](https://anuragmali333.github.io/Youtube-Clone/)
 
 ## 🚀 Features
 - YouTube-like homepage layout
